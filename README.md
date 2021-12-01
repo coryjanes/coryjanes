@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @coryjanes
-- 👀 I’m interested in all things coding, learning software engineering techniques and etiquette. Love gamification, leisure or educational 
-- 🌱 I’m currently learning C/C++, still have much to learn with Java and Python
-- 💞️ I’m looking to collaborate on anything that makes me a better all-around computing individual. "Live as if you were to die tomorrow. Learn as if you were to live forever."
-      ~Mahatma Gandhi
+- 👀 I’m interested in all things coding, never afraid to ask and learn about new techniques and etiquette in software engineering. 
+- 🌱 I’m currently learning C/C++, familiar with Java, Python, HTML/CSS.
+- 💞️ I’m looking to collaborate on anything that hones my overall ablility in the computing profession. 
 - 📫 How to reach me coryjanes@gmail.com / 
       Montana State University - Computer Science undergraduate / US Army veteran
 
